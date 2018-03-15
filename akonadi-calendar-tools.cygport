@@ -1,0 +1,12 @@
+inherit kf5
+
+NAME="akonadi-calendar-tools"
+VERSION=17.12.3
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="Akonadi calendar command-line tools"
+DESCRIPTION="Akonadi is a PIM layer, which provides an asynchronous API to
+access all kind of PIM data (e.g. mails, contacts, events, todos etc.). It
+consists of several processes (generally called the Akonadi server) and a
+library (called client library) which encapsulates the communication between
+the client and the server."
